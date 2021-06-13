@@ -1,1 +1,0 @@
-(self.webpackChunkroborumble_makeit_saarland=self.webpackChunkroborumble_makeit_saarland||[]).push([[453],{516:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/blog/tags/hello"}')}}]);

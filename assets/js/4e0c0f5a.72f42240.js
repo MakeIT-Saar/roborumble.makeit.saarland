@@ -1,0 +1,1 @@
+(self.webpackChunkroborumble_makeit_saarland=self.webpackChunkroborumble_makeit_saarland||[]).push([[56],{2993:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/roborumble.makeit.saarland/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/roborumble.makeit.saarland/blog/tags/facebook"}')}}]);

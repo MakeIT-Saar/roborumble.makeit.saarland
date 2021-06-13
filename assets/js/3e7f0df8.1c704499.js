@@ -1,0 +1,1 @@
+(self.webpackChunkroborumble_makeit_saarland=self.webpackChunkroborumble_makeit_saarland||[]).push([[24],{8879:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/roborumble.makeit.saarland/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/roborumble.makeit.saarland/blog/tags/docusaurus"}')}}]);
